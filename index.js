@@ -1,3 +1,6 @@
-var main = document.getElementById("main");
-main.innerHTML = "Hello, JS!";
-
+Ext.application({
+    name: 'Demo',
+    launch: function () {
+        Ext.Msg.alert('Hello', 'ExtJS')
+    }
+})
