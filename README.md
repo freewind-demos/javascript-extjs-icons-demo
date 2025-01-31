@@ -1,13 +1,12 @@
-JavaScript ExtJS CDN Demo
+JavaScript ExtJS Icons Demo
 =========================
 
-使用CDN上提供的extjs来写程序。找不到这方面的例子，一点点试出来要使用哪些文件（有几千个文件）。
+想使用extjs自己的图标，但是发现cursor怎么都生成不对，是空白的。只能先这么放着了
 
 ```
 open index.html
 ```
 
-![demo](./images/demo.jpg)
 
 Resources
 ---------
